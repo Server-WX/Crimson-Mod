@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "C C",
+        "C C"
+    ],
+    
+    "key":
+    {
+        "C": { "item": "crimson:crimson_ingot" }
+    },
+    
+    "result":
+    {
+        "item": "crimson:crimson_boots",
+        "count": 1
+    }
+}

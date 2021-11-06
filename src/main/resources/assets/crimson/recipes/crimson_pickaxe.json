@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "CCC",
+        " M ",
+        " M "
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "crimson:crimson_ingot"
+        },
+        "M":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "crimson:crimson_pickaxe",
+        "count": 1
+    }
+}

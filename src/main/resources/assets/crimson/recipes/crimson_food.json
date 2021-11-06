@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "TTT",
+        "TTT",
+        "TTT"
+    ],
+    
+    "key":
+    {
+        "T":
+        {
+            "item": "minecraft:coal_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "crimson:crimson_food",
+        "count": 1
+    }
+}

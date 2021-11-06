@@ -1,0 +1,24 @@
+// items
+item.crimson_sword.name=Lmy
+item.crimson_sword.name=Crimson Sword
+item.crimson_pickaxe.name=Crimson Pickaxe
+item.crimson_axe.name=Crimson Axe
+item.crimson_spade.name=Crimson Spade
+item.crimson_hoe.name=Crimson Hoe
+item.crimson_ingot.name=Crimson Ingot
+
+// Armor
+item.crimson_helmet.name=Crimson Helmet
+item.crimson_chestplate.name=Crimson Chestplate
+item.crimson_leggings.name=Crimson Leggings
+item.crimson_boots.name=Crimson Boots
+
+// blocks
+tile.crimson_ore.name=Crimson Ore
+
+// entity
+entity.obsidian_slime.name=Obsidian Slime
+
+// tabs
+//itemGroup.block_tab=Block Tab
+itemGroup.item_tab=Red the Crimson

@@ -1,0 +1,26 @@
+// 物品
+item.crimson_sword.name=殷红剑
+item.crimson_pickaxe.name=殷红稿
+item.crimson_axe.name=殷红斧
+item.crimson_spade.name=殷红铲
+item.crimson_hoe.name=殷红锄
+item.crimson_ingot.name=殷红锭
+
+// 防具
+item.crimson_helmet.name=殷红头盔
+item.crimson_chestplate.name=殷红胸甲
+item.crimson_leggings.name=殷红护腿
+item.crimson_boots.name=殷红靴子
+
+// 食物
+item.crimson_food.name=煤球 露露露露米娅
+
+//方块
+tile.crimson_ore.name=殷红矿
+
+//实体
+entity.obsidian_slime.name=黑曜石史莱姆
+
+//物品栏
+//itemGroup.block_tab=方块
+itemGroup.item_tab=薪燃嫣红
